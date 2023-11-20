@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:          Add registrar-se atacado nos produtos (Nickolas Mariano)
- * Plugin URI:           https://github.com/nicknickolasm4/remove_download_link
+ * Plugin URI:           https://github.com/nicknickolasm4/alert_create_account
  * Description:          Add registrar-se atacado nos produtos
  * Author:               Nickolas Mariano
  * Author URI:           https://github.com/nicknickolasm4/
